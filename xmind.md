@@ -63,6 +63,7 @@ Mac：127.0.0.1 www.xmind.net   回车（直接修改会提示无权修改，需
 
 
 
+
 现在关闭xmind并重新打开，就可以看到显示为已激活状态了，各种pro的功能都能够正常使用。
 
 ![Image text](http://df1551e3.wiz03.com/share/resources/8ccfde4e-14a2-4097-9280-192264669fd8/index_files/366_73f_b60.jpg)
